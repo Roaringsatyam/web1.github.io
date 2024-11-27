@@ -1,0 +1,31 @@
+body{
+    background-color:white;
+    color:black;
+}
+.card{
+    border: solid black;
+    margin:50px;
+    border-radius: 10px;
+    box-shadow:5px 5px 5px 5px rgb(13, 13, 63);
+}
+#second{
+    position: absolute;
+    width:610px;
+    height:360px;
+}
+h1{
+    background-color:rgb(13, 13, 63);
+    text-decoration: underline;
+    color:beige;
+}
+h2{
+    background-color: rgb(13, 13, 63);
+    text-decoration: underline;
+    color:beige;
+}
+#map{
+    position:static;
+    margin-left:30px;
+    height: 200px;
+    width: 400px;
+}

@@ -1,0 +1,225 @@
+body{
+    background-image: url("back.jpeg");
+    background-size:cover;
+}
+
+.card{
+    height: 450px;
+    width:1300px;
+    margin: 10px;
+    border-radius: 10px;
+    border: solid beige;
+}
+.card:hover{
+    box-shadow: 2px 2px 5px 5px beige;
+}
+#first{
+    height: 450px;
+    width: 600px;
+}
+#second{
+    height: 450px;
+    width: 600px;
+}
+#third{
+    height: 450px;
+    width: 600px;
+}
+#fourth{
+    height:450px;
+    width: 600px;
+}
+#fifth{
+    height: 450px;
+    width: 600px;
+}
+#sixth{
+    height: 450px;
+    width: 600px;
+}
+#seventh{
+    height: 450px;
+    width: 600px;
+}
+#eight{
+    height: 450px;
+    width: 600px;
+}
+#nineth{
+    height:450px;
+    width: 600px;
+}
+#tenth{
+    height: 450px;
+    width: 600px;
+}
+.card1{
+    
+    height: 105px;
+    width: 1306px;
+    border: solid beige;
+    border-radius: 25px;
+    background-color: rgb(10, 10, 31);
+    color: white;
+    margin: 10px;
+    
+}
+.card1:hover{
+    box-shadow: 2px 2px 5px 5px beige;
+    
+}
+.introduction{
+    position: absolute;
+    width: 300px;
+    height: 450px;
+    border: solid beige;
+    border-radius: 10px;
+    margin: 10px;
+    padding:2px;
+    cursor: pointer;
+    color: beige;
+}
+
+.introimg{
+    width:300px;
+    height:200px;
+}
+.introduction:hover{
+    box-shadow: 2px 2px 5px 5px beige;
+}
+.history{
+    position:absolute;
+    width: 300px;
+    height: 450px;
+    border: solid beige;
+    border-radius: 10px;
+    margin: 10px;
+    padding:2px;
+    cursor: pointer;
+    margin-left:335px;
+    color: beige;
+}
+.historyimg{
+    width:300px;
+    height:200px;
+}
+.history:hover{
+    box-shadow:2px 2px 5px 5px beige;
+}
+.location{
+    position:absolute;
+    width: 300px;
+    height: 450px;
+    border: solid beige;
+    border-radius: 10px;
+    margin: 10px;
+    padding:2px;
+    cursor: pointer;
+    margin-left:660px;
+    color: beige;
+}
+.locationimg{
+    width:300px;
+    height:200px;
+}
+.location:hover{
+    box-shadow:2px 2px 5px 5px beige;
+}
+.architecture{
+    position:absolute;
+    width: 300px;
+    height: 450px;
+    border: solid beige;
+    border-radius: 10px;
+    margin: 10px;
+    padding:2px;
+    cursor: pointer;
+    margin-left:990px;
+    color: beige;
+}
+.architectureimg{
+    width:300px;
+    height:200px;
+}
+.architecture:hover{
+    box-shadow:2px 2px 5px 5px beige;
+}
+.attraction{
+    position:absolute;
+    width: 300px;
+    height: 450px;
+    border: solid beige;
+    border-radius: 10px;
+    margin: 10px;
+    padding:2px;
+    cursor: pointer;
+    margin-top:500px;
+    color: beige;
+}
+.attractimg{
+    width:300px;
+    height:200px;
+}
+.attraction:hover{
+    box-shadow:2px 2px 5px 5px beige;
+}
+.activity{
+    position:absolute;
+    width: 300px;
+    height: 450px;
+    border: solid beige;
+    border-radius: 10px;
+    margin: 10px;
+    padding:2px;
+    cursor: pointer;
+    margin-top:500px;
+    color: beige;
+    margin-left: 335px;
+}
+.activityimg{
+    width:300px;
+    height:200px;
+}
+.activity:hover{
+    box-shadow:2px 2px 5px 5px beige;
+}
+.event{
+    position:absolute;
+    width: 300px;
+    height: 450px;
+    border: solid beige;
+    border-radius: 10px;
+    margin: 10px;
+    padding:2px;
+    cursor: pointer;
+    margin-top:500px;
+    color: beige;
+    margin-left:660px;
+}
+.eventimg{
+    width:300px;
+    height:200px;
+}
+.event:hover{
+    box-shadow:2px 2px 5px 5px beige;
+}
+.visitor{
+    position:absolute;
+    width: 300px;
+    height: 450px;
+    border: solid beige;
+    border-radius: 10px;
+    margin: 10px;
+    padding:2px;
+    cursor: pointer;
+    margin-top:500px;
+    color: beige;
+    margin-left:990px;
+}
+.visitorimg{
+    width:300px;
+    height:200px;
+}
+.visitor:hover{
+    box-shadow:2px 2px 5px 5px beige;
+}

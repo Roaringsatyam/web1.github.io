@@ -1,0 +1,15 @@
+h1{
+    background-color:pink;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 80px;
+    
+}
+tr{
+    text-align: center;
+    font-weight: bold;
+    font-size:50px;
+    background-color:black;
+    color:aliceblue;
+}

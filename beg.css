@@ -1,0 +1,25 @@
+body{
+    background-color:black;
+    color: beige;
+}
+.card{
+    border: solid beige;
+    margin:50px;
+    border-radius: 10px;
+    box-shadow:5px 5px 5px 5px yellow;
+}
+#second{
+    position: absolute;
+    width:590px;
+    height:425px;
+}
+h1{
+    background-color: yellow;
+    text-decoration: underline;
+    color:black;
+}
+h2{
+    background-color: yellow;
+    text-decoration: underline;
+    color: black;
+}
